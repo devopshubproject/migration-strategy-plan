@@ -7,7 +7,7 @@ migration strategy flow.
 
 Click the link to view the full plan:
 
-<img src="./docs/images/migration.png" align+"center">
+<img src="./docs/images/migration.png" align="center">
 
 
 ### What is Migration?
